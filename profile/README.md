@@ -39,7 +39,7 @@
 
 ### 📌 주요기능 소개
 
-#### 💡 산책 모임 기능
+#### 💡 쇼핑몰 기본 기능
 지도에 미리 등록 되어있는 산책 스팟에 사용자가 산책 모임을 생성하면 다수의 인원이 참여할 수 있습니다.
 <br>
 산책 모임을 생성할 때 시간, 세부 장소, 해시태그 등을 통해 모임의 상세 정보를 설정합니다.
@@ -54,14 +54,14 @@
 <tr>
 <td width="30%" valign="top">
 <div>
-<p style="font-weight: bold">산책 모임 생성</p>
-  <img src="https://github.com/user-attachments/assets/e95b46d6-1452-49e3-b74d-a0e64cbbc955" width="220px" />
+<p style="font-weight: bold">메인 페이지</p>
+  <img src="https://github.com/user-attachments/assets/216f4113-a210-4041-baf1-953aca8cdb9f" width="220px" />
 </div>
 </td>
 <td width="30%" valign="top">
 <div>
-<p style="font-weight: bold">산책 스팟 조회</p>
-  <img src="https://github.com/user-attachments/assets/85217305-3168-4fe2-92d0-3c76dc903ae7" width="215px" />
+<p style="font-weight: bold">상품 상세 조회</p>
+  <img src="https://github.com/user-attachments/assets/050fa452-2080-423c-a0b9-82275b52c49a" width="215px" />
 </div>
 </td>
 </tr>
@@ -71,20 +71,20 @@
 <tr>
 <td width="30%" valign="top">
 <div>
-<p style="font-weight: bold">산책 모임 가입</p>
-  <img src="https://github.com/user-attachments/assets/cdd39864-34ef-4bb3-aa40-a3f69a572509" width="220px" />
+<p style="font-weight: bold">친환경 상품 조회</p>
+  <img src="https://github.com/user-attachments/assets/9e7d8246-725a-4491-a6b2-77dd6eeee136" width="220px" />
 </div>
 </td>
 <td width="30%" valign="top">
 <div>
-<p style="font-weight: bold">산책 모임 상세</p>
-  <img src="https://github.com/user-attachments/assets/29c09dc6-80a5-448d-b190-ca9771d1a153" width="220px" />
+<p style="font-weight: bold">장바구니 기능</p>
+  <img src="https://github.com/user-attachments/assets/5a8abe7f-8ed9-46e9-b20a-9752539b86f5" width="220px" />
 </div>
 </td>
 <td width="30%" valign="top">
 <div>
-<p style="font-weight: bold">내 주변 멍스팟 추천</p>
-  <img src="https://github.com/user-attachments/assets/9c90e18d-1318-4b59-b679-e69729b1e4f2" width="210px" />
+<p style="font-weight: bold">상품 주문 기능</p>
+  <img src="https://github.com/user-attachments/assets/c907d872-d2ce-4a00-8a7b-e5ba09bb24e2" width="210px" />
 </div>
 </td>
 </tr>
@@ -92,7 +92,7 @@
 
 <hr>
 
-#### 💡 산책 기능
+#### 💡 상품 추천 기능
 미리 등록한 반려견 중 산책을 함께할 반려견을 선택하고 산책을 진행할 수 있습니다.
 <br>
 산책을 시작하면 실시간으로 이동 거리, 이동 시간, 산책 경로가 표시됩니다.
@@ -104,7 +104,7 @@
 <td width="30%" valign="top">
 <div>
 <p style="font-weight: bold">산책 기능</p>
-  <img src="https://github.com/user-attachments/assets/41d5e367-02ec-40d7-bcf8-7d1d7c3d88c2" width="220px" />
+  <img src="https://github.com/user-attachments/assets/cc7bf8dc-3eab-4e52-89cc-92a4b342cc94" width="220px" />
 </div>
 </td>
 </tr>
@@ -113,7 +113,7 @@
 
 <hr>
 
-#### 💡 산책 기록 기능
+#### 💡 특가 할인 기능
 이번 달 산책 기록을 반려견별로 확인할 수 있습니다.
 <br>
 산책 기록 상세 내역에서 산책 시작 및 종료 시간, 이동 거리, 산책 경로, 함께한 반려견을 확인할 수 있습니다.
@@ -123,7 +123,7 @@
 <td width="30%" valign="top">
 <div>
 <p style="font-weight: bold">산책 기록</p>
-  <img src="https://github.com/user-attachments/assets/c4b33e48-6e96-45da-8d04-1a1002178044" width="220px" />
+  <img src="https://github.com/user-attachments/assets/52313ae3-53b5-4ce4-8f3a-8bb3cdc071e7" width="220px" />
 </div>
 </td>
 </tr>
@@ -131,7 +131,7 @@
 
 <hr>
 
-#### 💡 반려견 관리 기능
+#### 💡 나무 키우기 기능
 사용자의 반려견을 등록, 수정, 삭제할 수 있습니다.
 <br>
 반려견의 이름, 성별, 품종, 생일, 성격 등의 정보를 관리할 수 있습니다.
@@ -140,63 +140,14 @@
 <tr>
 <td width="30%" valign="top">
 <div>
-<p style="font-weight: bold">반려견 등록</p>
-  <img src="https://github.com/user-attachments/assets/07e28030-9a59-433c-96cf-b75507b2add0" width="220px" />
+<p style="font-weight: bold">나무 키우기 기능</p>
+  <img src="https://github.com/user-attachments/assets/f490faa1-477f-4fa2-8fe4-7f68aca12be2" width="220px" />
 </div>
 </td>
 <td width="30%" valign="top">
 <div>
-<p style="font-weight: bold">반려견 정보 조회</p>
-  <img src="https://github.com/user-attachments/assets/1419f5f3-a412-4fb0-a240-4c5a29598e72" width="220px" />
-</div>
-</td>
-</tr>
-</table>
-
-<hr>
-
-#### 💡 친구 관리 / 1:1 채팅 기능
-유저 검색을 통해 특정 사용자를 찾을 수 있습니다.
-<br>
-사용자의 프로필 또는 유저 검색에서 친구 신청을 할 수 있습니다.
-<br>
-친구 신청을 받은 사용자는 알림을 통해 친구 신청을 거절 / 수락할 수 있습니다.
-
-<table>
-<tr>
-<td width="30%" valign="top">
-<div>
-<p style="font-weight: bold">친구 목록</p>
-  <img src="https://github.com/user-attachments/assets/6443672f-5721-4030-9d7d-14ed3e7804d9" width="220px" />
-</div>
-</td>
-<td width="30%" valign="top">
-<div>
-<p style="font-weight: bold">친구 신청 수락</p>
-  <img src="https://github.com/user-attachments/assets/c52eb95d-d58c-4e1c-acd6-7ac6566caa7e" width="220px" />
-</div>
-</td>
-<td width="30%" valign="top">
-<div>
-<p style="font-weight: bold">친구 프로필 조회 / 친구 삭제</p>
-  <img src="https://github.com/user-attachments/assets/c66e2f8e-cb80-421a-b514-21222fde35e3" width="220px" />
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%" valign="top">
-<div>
-<p style="font-weight: bold">유저 검색</p>
-  <img src="https://github.com/user-attachments/assets/e4bd8771-fa27-4e19-baf8-761773f0dea7" width="220px" />
-</div>
-</td>
-<td width="30%" valign="top">
-<div>
-<p style="font-weight: bold">1:1 채팅</p>
-  <img src="https://github.com/user-attachments/assets/1ba22ee9-8cb4-43f0-8466-dffca7cc7d5f" width="220px" />
+<p style="font-weight: bold">리워드 확인</p>
+  <img src="https://github.com/user-attachments/assets/ee492c93-6d16-4ea1-98c6-daa4a488b2be" width="220px" />
 </div>
 </td>
 </tr>
